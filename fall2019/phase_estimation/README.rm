@@ -1,0 +1,3 @@
+Notebook walking through the phase estimation algorithm, an important subroutine in many quantum algorithms.
+
+Note that the phase estimation algorithm uses the quantum Fourier transform (QFT). If you want a reminder on the QFT, there's a notebook in algorithms_intro that covers it.
